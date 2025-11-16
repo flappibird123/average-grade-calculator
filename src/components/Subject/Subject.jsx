@@ -1,0 +1,1 @@
+import styles from './Subject.module.css'

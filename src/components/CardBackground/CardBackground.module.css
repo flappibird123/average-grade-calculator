@@ -1,0 +1,12 @@
+.square {
+    width: 270px;
+    height: 200px;
+    background-color: #84888b3b;
+    border-radius: 10px;
+}
+.subject {
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
